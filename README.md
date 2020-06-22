@@ -3,7 +3,7 @@ This is a spoofer hwid warehouse.
 These programs should help in circumventing the hwid ban(but not the ip!!!!!).
 Links to some sources will be stored in files. 
 No one cares what you think, and I won't say what you understand.
-What they spoof(I don't want to break it down separately and write how they differ):
+What they spoof(I don't want to break it down separately and write how they differ)(total  ~47):
 Disk number changer
 Symbolic
 ModulID
